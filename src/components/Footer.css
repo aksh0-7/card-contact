@@ -1,0 +1,30 @@
+hr {
+    padding: 20px 0px;
+  }
+  
+  .footer {
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 6vh;
+    color: black;
+    background-color: #8cc176;
+    box-shadow: rgba(179, 177, 177, 0.15) 0px 3px 3px 0px;
+    .footer-item1 {
+      display: flex;
+      color: white;
+      gap: 20px;
+      p {
+        cursor: pointer;
+      }
+    }
+    i {
+      padding: 0px 10px;
+      cursor: pointer;
+    }
+  }
+  

@@ -1,0 +1,32 @@
+.buttons {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  button {
+    padding: 5px;
+    width: 80px;
+    background-color: #8cc176;
+  }
+}
+
+.contact-display {
+  padding: 10px;
+}
+
+.edit {
+  padding: 10px;
+  input {
+    width: 150px;
+    padding: 5px;
+    margin-left: 5px;
+  }
+  button {
+    padding: 5px;
+    margin-left: 5px;
+    width: 60px;
+    background-color: #8cc176;
+  }
+}
+
+
